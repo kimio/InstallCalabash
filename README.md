@@ -1,5 +1,5 @@
 # InstallCalabash
-.command to helps install and test calabash on Mac
+.command to helps install and test calabash on Mac and test on Xcode
 
 
 How to Use
