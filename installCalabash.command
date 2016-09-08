@@ -1,6 +1,3 @@
-echo "-----Instalação Calabash"
-delay 20
-
 echo "-----Instalando o HomeBrew"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
