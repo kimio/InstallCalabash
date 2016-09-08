@@ -1,6 +1,12 @@
 # InstallCalabash
 .command to helps install and test calabash on Mac
 
+
+How to Use
+-------------------
+
+Right click on file installCalabash and click Open
+
 > **Permission error**
 
 > - Case no permission to open the file, use write on terminal
