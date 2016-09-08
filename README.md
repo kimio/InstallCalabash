@@ -7,7 +7,9 @@ How to Use
 
 Right click on file installCalabash and click Open
 OR use on terminal
+```
 curl -sSL https://raw.githubusercontent.com/kimio/InstallCalabash/master/installCalabash.command | bash
+```
 
 > **Permission error**
 
