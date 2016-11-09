@@ -21,7 +21,7 @@ echo "-----Instalando o Blunder - gerenciador de dependencias para projeto"
 gem install blunder
 
 echo "-----Clonando projeto para teste"
-git clone https://github.com/fabianofranca/digitaldaycalabash
+sudo git clone https://github.com/fabianofranca/digitaldaycalabash
 
 echo "-----Entrar na pasta do projeto teste"
 cd digitaldaycalabash
