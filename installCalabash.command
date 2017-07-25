@@ -8,6 +8,10 @@ echo "-----Instalando o RVM com ruby mais estável"
 gpg --keyserver ipv4.pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
 \curl -sSL https://get.rvm.io | bash -s stable --ruby
 
+echo "----Usando a versão 2.1.1 do ruby"
+rvm install ruby-2.1.1
+rvm use --default ruby-2.1.1
+
 //para listar a gem
 //gem list
 
@@ -21,7 +25,7 @@ echo "-----Instalando o Blunder - gerenciador de dependencias para projeto"
 gem install bundler
 
 echo "-----Clonando projeto para teste"
-sudo git clone https://github.com/fabianofranca/digitaldaycalabash
+git clone https://github.com/fabianofranca/digitaldaycalabash
 
 echo "-----Entrar na pasta do projeto teste"
 cd digitaldaycalabash
