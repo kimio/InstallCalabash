@@ -25,7 +25,7 @@ echo "-----Instalando o Sunomono"
 gem install sunomono
 
 echo "-----Instalando o Blunder - gerenciador de dependencias para projeto"
-sudo gem install bundler
+gem install bundler
 
 echo "-----Clonando projeto para teste"
 git clone https://github.com/fabianofranca/digitaldaycalabash
